@@ -31,7 +31,7 @@ Put the script into server path `world/scripts/` folder
 - `/home` Tp back to home
 
 ### i_wanna_go
-- `i_wanna_go [coords]` Enter the target coordinate and you will face right toward there, just keep walking/flying forward
+- `/i_wanna_go [coords]` Enter the target coordinate and you will face right toward there, just keep walking/flying forward
 
 ### lava_sponge
 - Modify the sponge so it works on lava just like water
