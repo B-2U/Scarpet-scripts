@@ -18,5 +18,4 @@ __on_explosion_outcome(pos, power, source, causer, mode, fire, blocks, entities)
 
 _fill(blocks)->(
     for(blocks, without_updates(set(pos(_), _))) 
-    )
 )
