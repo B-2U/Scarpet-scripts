@@ -17,10 +17,10 @@ __command() -> (
     );
     if(
         dimension == 'overworld',
-            info = format('c Overworld '+location);
+            info = format('c Overworld '+location),
 
         dimension == 'the_nether',
-            info = format('n Nether '+location);
+            info = format('n Nether '+location),
 
         dimension == 'the_end',
             info = format('p End '+location),
